@@ -165,7 +165,8 @@
                 "medium": "Medium",
                 "turbo": "Turbo",
                 "auto": "Auto",
-                "gentle": "Sanft"
+                "gentle": "Sanft",
+                "strong": "Stark"
             }
         },
         "sensor_dirty_left": {
